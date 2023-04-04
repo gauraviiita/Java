@@ -1,0 +1,6 @@
+returnType functionName(){
+    //operation
+}
+
+Function is a block of code which take inputs and perform operation
+and then retun output
